@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "name": "Blueberry Cake",
+        "price": 5.99,
+        "imgUrl": "https://images.pexels.com/photos/806363/pexels-photo-806363.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 2,
+        "name": "Royal Vanilla",
+        "price": 4.99,
+        "imgUrl": "https://images.pexels.com/photos/140831/pexels-photo-140831.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 3,
+        "name": "Mocha Brownie",
+        "price": 6.99,
+        "imgUrl": "https://images.pexels.com/photos/1291712/pexels-photo-1291712.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 4,
+        "name": "Strawberry Cheesecake",
+        "price": 5.99,
+        "imgUrl": "https://images.pexels.com/photos/1126359/pexels-photo-1126359.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 5,
+        "name": "Sachertorte",
+        "price": 4.99,
+        "imgUrl": "https://images.pexels.com/photos/132694/pexels-photo-132694.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 6,
+        "name": "Black Forest",
+        "price": 5.99,
+        "imgUrl": "https://images.pexels.com/photos/2144200/pexels-photo-2144200.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 7,
+        "name": "Berry Tart",
+        "price": 6.99,
+        "imgUrl": "https://images.pexels.com/photos/461431/pexels-photo-461431.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 8,
+        "name": "Mille-Feuille",
+        "price": 8.99,
+        "imgUrl": "https://images.pexels.com/photos/4553118/pexels-photo-4553118.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 9,
+        "name": "Carrot Cake",
+        "price": 4.99,
+        "imgUrl": "https://images.pexels.com/photos/3026803/pexels-photo-3026803.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 10,
+        "name": "Triple Chocolate Mousse",
+        "price": 5.99,
+        "imgUrl": "https://images.pexels.com/photos/960540/pexels-photo-960540.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 11,
+        "name": "Coffee Bundt",
+        "price": 3.99,
+        "imgUrl": "https://images.pexels.com/photos/1543800/pexels-photo-1543800.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 12,
+        "name": "Almond-Fruit Cake",
+        "price": 5.99,
+        "imgUrl": "https://images.pexels.com/photos/1027811/pexels-photo-1027811.jpeg?auto=compress&cs=tinysrgb&w=600"
+    },
+    {
+        "id": 13,
+        "name": "Toffee Caramel",
+        "price": 6.99,
+        "imgUrl": "assets/images/toffee-caramel.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Classic Opera Cake",
+        "price": 8.99,
+        "imgUrl": "assets/images/vanilla-opera.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Tarte Tatin",
+        "price": 7.99,
+        "imgUrl": "assets/images/tarte-tatin.jpg"
+    }
+]
