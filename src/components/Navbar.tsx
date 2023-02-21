@@ -27,7 +27,7 @@ export function Navbar() {
                     Store
                 </Nav.Link>
                 <Nav.Link onClick={handleContScroll}>
-                    Contact
+                    Contact Us
                 </Nav.Link>
             </Nav>
             {cartQuantity > 0 && (
